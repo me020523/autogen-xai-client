@@ -1,0 +1,27 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+__pycache__
+
+.data
+
+clickhouse/data
+clickhouse/log
+
+*.so
+
+.cargo
+*.csv
+*.pkl
+
+
+# Added by cargo
+
+/target
